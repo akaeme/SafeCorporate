@@ -1,0 +1,14 @@
+Requirements
+mongo 
+
+Python 3.5
+DateTime==4.2
+maxminddb-geolite2==2017.404
+netaddr==0.7.19
+numpy==1.12.1
+progressbar2==3.20.2
+scapy-python3==0.20
+scikit-learn==0.18.1
+scipy==0.19.0
+sklearn==0.0
+
