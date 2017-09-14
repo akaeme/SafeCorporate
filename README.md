@@ -16,7 +16,7 @@ This project is divided in three phases:
 This proposal takes only in consideration SYN-DDoS attacks. 
 
 #### Architecture
-[logo]: https://github.com/akaeme/SafeCorporate/architecture.png "Project Architecture"
+![Project Architecture](architecture.png)
 
 ### Installation and Configuration
 	1. Clone this repository
