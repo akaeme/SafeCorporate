@@ -59,3 +59,7 @@ This proposal takes only in consideration SYN-DDoS attacks.
 		# To test support vector machine, change:
 		- filename : machineLearning -> machineLearning_svm
 		- model file: modelNN# -> modelSVM# 
+
+## Licence
+
+MIT
